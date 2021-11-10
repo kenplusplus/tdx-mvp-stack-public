@@ -6,7 +6,7 @@
 %undefine _missing_build_ids_terminate_build
 %global _configure_gnuconfig_hack 0
 
-%define source_url_prefix https://git.centos.org/rpms/grub2/raw/c8/f/SOURCES
+%define source_url_prefix https://git.centos.org/rpms/grub2/raw/44c3293805a9d9952a223c8d010adeb5a2a85c21/f/SOURCES
 
 Name:		intel-mvp-tdx-guest-grub2
 Epoch:		1
