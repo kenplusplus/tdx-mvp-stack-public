@@ -27,7 +27,7 @@ ExclusiveArch:	x86_64
 License:	BSD
 URL:		https://github.com/rhboot/shim
 
-%define source_url_prefix  https://git.centos.org/rpms/shim-unsigned-x64/raw/c8/f/SOURCES/
+%define source_url_prefix  https://git.centos.org/rpms/shim-unsigned-x64/raw/13952af17d68be417a316663ab7ed362d724edb8/f/SOURCES/
 
 Source0:	https://github.com/rhboot/shim/releases/download/%{version}/shim-%{version}.tar.bz2
 Source1:	%{source_url_prefix}/redhatsecurebootca5.cer
